@@ -1,0 +1,3 @@
+red=com.sdz.spi.imp.RedCar
+blue=com.sdz.spi.imp.BlueCar
+benth=com.sdz.spi.imp.BenthCarWrapper
